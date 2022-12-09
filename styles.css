@@ -69,5 +69,29 @@ main {
 text-align: center;
 }
 
+.timecardsummary{
+ 
+  height:90vh;
+  width:80vw;
+  color: blueviolet;
+  display:flex;
+}
+.instructions{
+  height:40px;
+  color:blueviolet;
+  width:40px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.basics{
+  color:black;
+  width:20px;
+}
+
+.projecthead{
+  width:100px;
+  padding:20px;
+  margin:2 10 20px;
+}
 
 
